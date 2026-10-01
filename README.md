@@ -19,7 +19,7 @@
 - 🏛 **Management systems:** attendance (AMS) and employee management (EMS), built inside a CMS
 - 📚 **Research publishing:** Qalam, a platform for research papers
 - 🤖 **AI chatbots:** embedded in school, government and university products, including bilingual (EN/UR) support
-- ⚙️ **Automation:** workflows that remove repetitive manual work (add your specific project here)
+
 
 ## ⚡ Systems
 
