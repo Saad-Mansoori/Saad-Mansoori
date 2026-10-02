@@ -33,6 +33,41 @@
 | **[JUW IPE website](https://github.com/Saad-Mansoori/juw-ipe-website)** | Jinnah University for Women IPE site, courses, admissions, bilingual chatbot | 🟢 Live |
 | **JUW homepage chatbot** | Chatbot on the university homepage | 🟢 Live |
 
+
+## 🗺 The ecosystem
+
+```mermaid
+flowchart LR
+  subgraph MGMT["🏛 Management systems"]
+    AMS["AMS · Attendance"]
+    EMS["EMS · Employees"]
+  end
+
+  subgraph RES["📚 Research publishing"]
+    QALAM["Qalam"]
+  end
+
+  subgraph BOTS["🤖 AI chatbots"]
+    TS["TIIA · Brazil schooling"]
+    TG["TIIA · Brazil government"]
+    JUW["JUW · homepage + IPE site"]
+    IPE["IPE application"]
+  end
+
+  subgraph AUTO["⚙️ Automation"]
+    N8N["n8n workflows"]
+  end
+
+  DB[("MongoDB · Supabase")]
+  DASH["Next.js · React dashboards"]
+
+  MGMT --> DB
+  RES --> DB
+  BOTS --> DB
+  AUTO --> DB
+  DB -.-> DASH
+```
+
 ## 🛠 Arsenal
 
 **Frontend**
