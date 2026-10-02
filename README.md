@@ -24,12 +24,37 @@
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <img src="screenshots/bilingual-chatbot.png" alt="Bilingual AI Chatbot Widget" width="100%" />
-      <br /><b>Bilingual AI Chatbot Widget</b> 🟢
-      <br />Open-source embeddable chatbot with English / Urdu support (full RTL), fuzzy FAQ search, structured answers and follow-up suggestions. Optional Gemini or Groq integration, no database needed, deploys free on Vercel.
-      <br /><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Fuse.js-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_/_Groq-8E75B2?style=flat-square" /> <img src="https://img.shields.io/badge/MIT-license-22c55e?style=flat-square" />
-      <br /><a href="https://github.com/Saad-Mansoori/Bilingual-Ai-Chatbot">Source code →</a>
+    <td width="33%" valign="top">
+      <img src="screenshots/bilingual-chatbot.png.jpg" alt="Bilingual AI Chatbot Widget" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/Bilingual-Ai-Chatbot"><b>Bilingual AI Chatbot</b></a> 🟢 Open source
+      <br /><sub>Embeddable English / Urdu chatbot with full RTL, fuzzy FAQ search and optional Gemini or Groq. Deploys free on Vercel.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="screenshots/ams.png" alt="Attendance Management System" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/Attendance-Management-System"><b>Attendance System</b></a> 🟢 Live
+      <br /><sub>Staff attendance for a university CMS: dashboard, holiday-aware calendar, monthly reports and biometric sync.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="screenshots/juw-ipe.png" alt="JUW IPE website" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
+      <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="screenshots/nexaerp.png" alt="NexaERP" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/nexaerp"><b>NexaERP</b></a> 🟢 Open source
+      <br /><sub>Modular ERP for people operations: employees, attendance, leave and payroll in one TypeScript monorepo.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="screenshots/ems.png" alt="Employee Management System" width="100%" />
+      <br /><b>Employee Management</b> 🟢 Live
+      <br /><sub>Employee records and operations, built inside a CMS.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="screenshots/qalam.png" alt="Qalam" width="100%" />
+      <br /><b>Qalam</b> 🟢 Live
+      <br /><sub>Research paper publication platform.</sub>
     </td>
   </tr>
 </table>
