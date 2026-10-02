@@ -20,6 +20,20 @@
 - 📚 **Research publishing:** Qalam, a platform for research papers
 - 🤖 **AI chatbots:** embedded in school, government and university products, including bilingual (EN/UR) support
 
+## 🖼 Featured systems
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="screenshots/bilingual-chatbot.png" alt="Bilingual AI Chatbot Widget" width="100%" />
+      <br /><b>Bilingual AI Chatbot Widget</b> 🟢
+      <br />Open-source embeddable chatbot with English / Urdu support (full RTL), fuzzy FAQ search, structured answers and follow-up suggestions. Optional Gemini or Groq integration, no database needed, deploys free on Vercel.
+      <br /><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Fuse.js-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_/_Groq-8E75B2?style=flat-square" /> <img src="https://img.shields.io/badge/MIT-license-22c55e?style=flat-square" />
+      <br /><a href="https://github.com/Saad-Mansoori/Bilingual-Ai-Chatbot">Source code →</a>
+    </td>
+  </tr>
+</table>
+
 
 ## ⚡ Systems
 
