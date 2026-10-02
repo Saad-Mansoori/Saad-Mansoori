@@ -76,3 +76,15 @@
 ---
 
 📫 **saadmansoori015@gmail.com**
+
+---
+
+<h3 align="center">Work with me</h3>
+
+<p align="center">
+  <a href="mailto:saadmansoori015@gmail.com"><img src="https://img.shields.io/badge/Email-saadmansoori015@gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://workupsolutions.com"><img src="https://img.shields.io/badge/Workup_Solutions-workupsolutions.com-7c3aed?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/saad-mansoori"><img src="https://img.shields.io/badge/LinkedIn-saad--mansoori-0A66C2?style=for-the-badge" /></a>
+</p>
+
+<p align="center"><sub>Source code for client systems is available under NDA.</sub></p>
