@@ -42,6 +42,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+## 🐍 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saad-Mansoori/Saad-Mansoori/output/github-snake-dark.svg" />
+  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/Saad-Mansoori/Saad-Mansoori/output/github-snake.svg" />
+</picture>
+
 ---
 
 📫 **saadmansoori015@gmail.com**
