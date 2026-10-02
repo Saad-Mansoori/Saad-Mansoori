@@ -35,7 +35,7 @@
       <br /><sub>Staff attendance for a university CMS: dashboard, holiday-aware calendar, monthly reports and biometric sync.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="screenshots/juw-ipe.png" alt="JUW IPE website" width="100%" />
+      <img src="screenshots/IPE-website.png.jpg" alt="JUW IPE website" width="100%" />
       <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
       <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
     </td>
