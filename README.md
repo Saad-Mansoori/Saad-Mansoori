@@ -30,7 +30,7 @@
       <br /><sub>Embeddable English / Urdu chatbot with full RTL, fuzzy FAQ search and optional Gemini or Groq. Deploys free on Vercel.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="screenshots/ams.png" alt="Attendance Management System" width="100%" />
+      <img src="screenshots/AMS_CMS.jpg" alt="Attendance Management System" width="100%" />
       <br /><a href="https://github.com/Saad-Mansoori/Attendance-Management-System"><b>Attendance System</b></a> 🟢 Live
       <br /><sub>Staff attendance for a university CMS: dashboard, holiday-aware calendar, monthly reports and biometric sync.</sub>
     </td>
