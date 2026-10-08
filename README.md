@@ -42,6 +42,12 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <img src="screenshots/IPE-website.png.jpg" alt="JUW IPE website" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
+      <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
+    </td>
+  </tr>
+    <td width="33%" valign="top">
       <img src="screenshots/nexaerp.png" alt="NexaERP" width="100%" />
       <br /><a href="https://github.com/Saad-Mansoori/nexaerp"><b>NexaERP</b></a> 🟢 Open source
       <br /><sub>Modular ERP for people operations: employees, attendance, leave and payroll in one TypeScript monorepo.</sub>
