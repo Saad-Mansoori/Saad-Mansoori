@@ -46,6 +46,16 @@
       <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
       <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
     </td>
+     <td width="33%" valign="top">
+      <img src="screenshots/nexaerp.png" alt="NexaERP" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/nexaerp"><b>NexaERP</b></a> 🟢 Open source
+      <br /><sub>Modular ERP for people operations: employees, attendance, leave and payroll in one TypeScript monorepo.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="screenshots/ems.png" alt="Employee Management System" width="100%" />
+      <br /><b>Employee Management</b> 🟢 Live
+      <br /><sub>Employee records and operations, built inside a CMS.</sub>
+    </td>
   </tr>
     <td width="33%" valign="top">
       <img src="screenshots/nexaerp.png" alt="NexaERP" width="100%" />
