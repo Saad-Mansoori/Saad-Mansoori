@@ -57,12 +57,6 @@
       <br /><sub>Employee records and operations, built inside a CMS.</sub>
     </td>
   </tr>
-    <td width="33%" valign="top">
-      <img src="screenshots/nexaerp.png" alt="NexaERP" width="100%" />
-      <br /><a href="https://github.com/Saad-Mansoori/nexaerp"><b>NexaERP</b></a> 🟢 Open source
-      <br /><sub>Modular ERP for people operations: employees, attendance, leave and payroll in one TypeScript monorepo.</sub>
-    </td>
-  </tr>
 </table>
 
 
