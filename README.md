@@ -23,7 +23,12 @@
 ## 🖼 Featured systems
 
 <table>
-  <tr>
+    <tr>
+   <td width="33%" valign="top">
+      <img src="screenshots/Qalam.png.jpg" alt="Qalam" width="100%" />
+      <br /><b>Qalam</b> 🟢 Live
+      <br /><sub>Research paper publication platform.</sub>
+    </td>
     <td width="33%" valign="top">
       <img src="screenshots/bilingual-chatbot.png.jpg" alt="Bilingual AI Chatbot Widget" width="100%" />
       <br /><a href="https://github.com/Saad-Mansoori/Bilingual-Ai-Chatbot"><b>Bilingual AI Chatbot</b></a> 🟢 Open source
