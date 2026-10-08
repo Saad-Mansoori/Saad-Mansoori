@@ -52,7 +52,7 @@
       <br /><sub>Employee records and operations, built inside a CMS.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="screenshots/qalam.png" alt="Qalam" width="100%" />
+      <img src="screenshots/Qalam.png.jpg" alt="Qalam" width="100%" />
       <br /><b>Qalam</b> 🟢 Live
       <br /><sub>Research paper publication platform.</sub>
     </td>
