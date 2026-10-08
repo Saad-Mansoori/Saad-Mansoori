@@ -39,11 +39,6 @@
       <br /><a href="https://github.com/Saad-Mansoori/Attendance-Management-System"><b>Attendance System</b></a> 🟢 Live
       <br /><sub>Staff attendance for a university CMS: dashboard, holiday-aware calendar, monthly reports and biometric sync.</sub>
     </td>
-    <td width="33%" valign="top">
-      <img src="screenshots/IPE-website.png.jpg" alt="JUW IPE website" width="100%" />
-      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
-      <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
-    </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
@@ -56,10 +51,10 @@
       <br /><b>Employee Management</b> 🟢 Live
       <br /><sub>Employee records and operations, built inside a CMS.</sub>
     </td>
-    <td width="33%" valign="top">
-      <img src="screenshots/Qalam.png.jpg" alt="Qalam" width="100%" />
-      <br /><b>Qalam</b> 🟢 Live
-      <br /><sub>Research paper publication platform.</sub>
+     <td width="33%" valign="top">
+      <img src="screenshots/IPE-website.png.jpg" alt="JUW IPE website" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
+      <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
     </td>
   </tr>
 </table>
