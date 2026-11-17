@@ -69,7 +69,7 @@
 | **Qalam** | Research paper publication platform | 🟢 Live |
 | **TIIA: Brazil schooling system** | School management platform with an AI chatbot | 🟢 Live |
 | **TIIA: Brazil government project** | Government platform with an AI chatbot | 🟢 Live |
-| **[JUW IPE website](https://github.com/Saad-Mansoori/juw-ipe-website)** | Jinnah University for Women IPE site, courses, admissions, bilingual chatbot | 🟢 Live |
+| **[JUW IPE Admin Portal/website](https://github.com/Saad-Mansoori/juw-ipe-website)** | Jinnah University for Women IPE site, courses, admissions, bilingual chatbot | 🟢 Live |
 | **JUW homepage chatbot** | Chatbot on the university homepage | 🟢 Live |
 
 
