@@ -42,8 +42,8 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="screenshots/IPE-portal.png.jpg" alt="JUW IPE website" width="100%" />
-      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Website</b></a> 🟢 Live
+      <img src="screenshots/IPE-portal.png.jpg" alt="JUW IPE Admin Panel" width="100%" />
+      <br /><a href="https://github.com/Saad-Mansoori/juw-ipe-website"><b>JUW IPE Admin Panel</b></a> 🟢 Live
       <br /><sub>Course catalog, admissions and news for Jinnah University for Women, with a bilingual chatbot.</sub>
     </td>
      <td width="33%" valign="top">
